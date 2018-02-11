@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/resource">
+        <file>qss/application.qss</file>
+        <file>bcm_warning_22.png</file>
+    </qresource>
+</RCC>
